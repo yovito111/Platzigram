@@ -1,0 +1,1 @@
+Es un pequeño proyecto realizado para el curso de platzi con el framewor django
